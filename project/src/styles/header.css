@@ -40,10 +40,6 @@ header{
     color: var(--color-gold)
 }
 
-#nav-link-menu-active{
-    color: var(--color-gold);
-}
-
 .icons{
     display: flex;
     gap: 30px;
